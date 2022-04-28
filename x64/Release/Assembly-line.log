@@ -1,0 +1,12 @@
+﻿  CustomerOrder.cpp
+  LineManager.cpp
+  main.cpp
+  Station.cpp
+E:\3rd sem oop345\Assembly-line\Station.cpp(74,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Utilities.cpp
+  Workstation.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 481 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Assembly-line.vcxproj -> E:\3rd sem oop345\Assembly-line\x64\Release\Assembly-line.exe
